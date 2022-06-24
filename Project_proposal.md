@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 **Results**
 
-For the subsequent analysis of the activity and progress of students, we formed three graphs based on the dataset: the graph of students and the graph of tasks.
+For the subsequent analysis of the activity and progress of students, we formed two graphs based on the dataset: the graph of students and the graph of tasks.
 
 **_1. Graphs of students that deal with the math problems_**
 
